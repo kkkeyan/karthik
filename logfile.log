@@ -1,0 +1,42 @@
+INFO:root:Test 1 : Registration page validation
+INFO:root:Test 1 : Registration page validation - Test Passed
+INFO:root:Test 1 : Registration page validation
+INFO:root:Test 1 : Registration page validation - Test Passed
+INFO:root:Test 2 : Test new account registration
+INFO:root:Test 2 : Test new account registration - Test Passed
+INFO:root:Test 3 : Test new account registration cancellation
+INFO:root:Test 3 : Test new account registration cancellation - Test Passed
+INFO:root:Test 4 : Test new account registration
+INFO:root:Test 4 : Test new account registration - Test Passed
+INFO:root:Test 5  : Test registration with new school name
+INFO:root:Test 5 : Test registration with new school name - Test Passed
+INFO:root:Test 6 : Test registration with invalid emailid
+INFO:root:Test 6 : Test registration with invalid emailid - Test Passed
+INFO:root:Test 7  : Name Filed validation
+INFO:root:Test 7 : Name Filed validation - Test Passed
+INFO:root:Test 8  : Test to check the error message when the role limit exceeds
+INFO:root:Test 8 : Test to check the error message when the role limit exceeds - Test Passed
+INFO:root:Test 9  : Test to check the duplicate account creation
+INFO:root:Test 9  : Test to check the duplicate account creation - Test Passed
+INFO:root:Test 10  : Test for legal links
+INFO:root:Test 10  : Test for legal links - Test Passed
+INFO:root:Test 1 : Registration page validation
+INFO:root:Test 1 : Registration page validation - Test Passed
+INFO:root:Test 2 : Test new account registration
+INFO:root:Test 2 : Test new account registration - Test Passed
+INFO:root:Test 3 : Test new account registration cancellation
+INFO:root:Test 3 : Test new account registration cancellation - Test Passed
+INFO:root:Test 4 : Test new account registration
+INFO:root:Test 4 : Test new account registration - Test Passed
+INFO:root:Test 5  : Test registration with new school name
+INFO:root:Test 5 : Test registration with new school name - Test Passed
+INFO:root:Test 6 : Test registration with invalid emailid
+INFO:root:Test 6 : Test registration with invalid emailid - Test Passed
+INFO:root:Test 7  : Name Filed validation
+INFO:root:Test 7 : Name Filed validation - Test Passed
+INFO:root:Test 8  : Test to check the error message when the role limit exceeds
+INFO:root:Test 8 : Test to check the error message when the role limit exceeds - Test Passed
+INFO:root:Test 9  : Test to check the duplicate account creation
+INFO:root:Test 9  : Test to check the duplicate account creation - Test Passed
+INFO:root:Test 10  : Test for legal links
+INFO:root:Test 10  : Test for legal links - Test Passed
